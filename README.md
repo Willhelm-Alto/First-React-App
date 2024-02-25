@@ -11,7 +11,6 @@ React, Vite, Axios, Cors, Express, Node, MySql
 
 #⚡Como usar
 
-Não isso não é feito
 Boa sorte kkkkkk....
 Tenha node e npm no seu pc. 
 Clone o repositorio. De `cd` na pasta `client` e `npm run dev`. Isso deve rodar o vite.
