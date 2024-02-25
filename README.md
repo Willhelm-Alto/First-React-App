@@ -1,13 +1,16 @@
 # React-Crud-App
 
 #🤔Sobre
+
 Uma aplicação web simples que permite adicionar, ler, atualizar e excluir registros num banco de dados.
 Feito como pratica para saber como funciona o processo em React. Não recomendado para outras pessoas tentarem usar.
 
 #🚀Tecnologias
+
 React, Vite, Axios, Cors, Express, Node, MySql
 
 #⚡Como usar
+
 Não isso não é feito
 Boa sorte kkkkkk....
 Tenha node e npm no seu pc. 
